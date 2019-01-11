@@ -1,4 +1,4 @@
-ember-pickr [![Build Status](https://travis-ci.org/astronomersiva/ember-pickr.svg?branch=master)](https://travis-ci.org/astronomersiva/ember-pickr)
+ember-pickr [![Build Status](https://travis-ci.org/astronomersiva/ember-pickr.svg?branch=master)](https://travis-ci.org/astronomersiva/ember-pickr) [![Greenkeeper badge](https://badges.greenkeeper.io/astronomersiva/ember-pickr.svg)](https://greenkeeper.io/)
 ==============================================================================
 
 Color Picker for EmberJS using [pickr](https://github.com/Simonwep/pickr)
